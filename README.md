@@ -1,2 +1,2 @@
 # rsschool-cv
-#New file
+https://arturZhak.github.io/rsschool-cv/cv
